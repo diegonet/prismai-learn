@@ -1,0 +1,7 @@
+{
+  "name": "PrismAI Learn",
+  "description": "Tutor personalizado de Razonamiento Multimodal para estudiantes STEM universitarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
